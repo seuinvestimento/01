@@ -1,0 +1,38 @@
+div{border: 0px solid red;}
+section{border: 0px solid red;}
+
+#title{background-color: #181717;min-height: 100vh;}
+
+.title{max-width: 700px;margin-bottom: 30px;font-weight: 700;font-size: 3vw;padding-top:15px;color: white;}
+.title_r{color:red;font-weight: 500;max-width: 600px;}
+.O_bold{color: #ffbe00;font-weight: 700 ;}
+.R_bold{color: rgb(223, 0, 0)!important;font-weight: 700;}
+.sub_title{margin-top:30px;max-width:500px;margin-bottom: 0px;padding-bottom: 0px;}
+.embed-responsive-16by9{max-width: 600px;}
+.btn-success{font-weight: 700 !important;border-radius: 20px !important;padding: 10px 20px 10px 20px !important;font-size: 18px !important;color: white !important;}
+.section_a{
+
+    background-color: #fff;
+    
+}
+.section_b{
+
+    background-color: #181717;
+    
+}
+
+.video_small{color:#000;font-weight: 500;}
+
+@media (min-width: 992px){
+   .btn-success{font-size: 20px !important;}
+}
+
+.compra-segura{width: 500px !important;margin-top: 20px;margin-bottom: 20px;max-width: 100% !important;}
+@media (max-width: 991.98px){
+    .title{font-size: 5vw;}
+}
+
+@media (max-width: 767.98px){
+    .title{font-size: 7vw;}
+}
+
